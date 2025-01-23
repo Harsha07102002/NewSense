@@ -1,0 +1,11 @@
+.submit-btn {
+  border-color: white;
+  color: white;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.submit-btn:hover {
+  background-color: white;
+  color: teal;
+  border-color: teal;
+}
